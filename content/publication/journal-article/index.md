@@ -26,11 +26,11 @@ publication_types:
   - "2"
 authors:
   - admin
-  - David
+  - David B. Hayrapetyan
 author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: "*Journal of Source Themes, 1*(1)"
+  - First Author
+  - Last Autor
+publication: "[*Computation, 2023; 11*(1)](https://unsplash.com/photos/jdD8gXaTZsc)"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -47,9 +47,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
