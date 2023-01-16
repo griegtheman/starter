@@ -21,7 +21,7 @@ abstract: "Considering the increasing number of experimental results in the
   potential. A structure with a quasi-type-II band alignment was obtained at the
   core size of ≈2.2 nm This result is consistent with the experimental data"
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2079-3197/11/1/5/pdf?version=1673602410
 publication_types:
   - "2"
 authors:
