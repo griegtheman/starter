@@ -30,7 +30,7 @@ authors:
 author_notes:
   - First Author
   - Last Autor
-publication: "[*Computation, 2023; 11*(1)](https://unsplash.com/photos/jdD8gXaTZsc)"
+publication: "[*Computation, 2023; 11*(1)](https://www.mdpi.com/2079-3197/11/1/5)"
 summary: ""
 url_dataset: ""
 url_project: ""
