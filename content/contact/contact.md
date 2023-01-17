@@ -22,8 +22,8 @@ content:
     city: Stanford
     region: CA
     postcode: '94305'
-    country: United States
-    country_code: US
+    country: Armenia
+    country_code: AM
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
