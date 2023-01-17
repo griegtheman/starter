@@ -26,7 +26,9 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Paytsar A. Mantashyan
   - David B. Hayrapetyan
+  
 author_notes:
   - First Author
   - Last Autor
