@@ -12,9 +12,14 @@ interests:
 social:
   - display:
       header: false
-    link: https://scholar.google.com/citations?user=3FFuo_wAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=9xtIG5wAAAAJ&hl=en
     icon_pack: fas
     icon: google
+  - display:
+      header: false
+    link: "paytsar.mantashyan@gmail.com, "
+    icon_pack: fas
+    icon: gmail
 organizations:
   - name: Institute of Chemical Physics after A.B. Nalbandyan
     url: https://ichph.am/
