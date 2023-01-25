@@ -1,7 +1,7 @@
 ---
 title: David B. Hayrapetyan
 role: Head of the Department of General Physics and Quantum Nanostructures
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: David's research interests are Nanophysics, nanooptics, nanotechnology,
   nanostructures.
 social:
