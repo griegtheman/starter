@@ -14,4 +14,6 @@ organizations:
   - name: Russian-Armenian University
 email: grigor.mantashyan1@gmail.com
 superuser: false
+user_groups:
+  - Principal Investigators
 ---
