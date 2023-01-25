@@ -40,7 +40,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
+  - Researchers
 highlight_name: false
 ---
 Grigor is a Researcher at the  [Russian-Armenian University](https://rau.am/en) and [Institute of Chemical Physics after A.B. Nalbandyan](https://www.sci.am/m/orgsview.php?id=27&langid=2). He is currently pursuing his Master’s degree in the Department of General Physics and Quantum Nanostructures with a specialization in quantum and optical electronics. His master thesis has the topic of thesis research investigates the properties of semiconductor quantum dots with non-trivial geometries and quantum dots as platforms for quantum information, quantum optics, and nanoscale devices. 
