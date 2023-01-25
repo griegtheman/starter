@@ -46,7 +46,7 @@ education:
 email: paytsar.mantashyan@gmail.com
 superuser: false
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 Dr. Paytsar Mantashya head of the group of Quantum Materials and Nanophotonics at Institute of Chemical Physics after A.B. Nalbandyan. She is currently pursuing her search in the specialization of Quantum optics and nanophotonics. Now the group investigates the properties of semiconductor quantum dots with non-trivial geometries and quantum dots as platforms for quantum information, quantum optics, and nanoscale devices.
 
