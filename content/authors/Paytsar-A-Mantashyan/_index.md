@@ -13,7 +13,7 @@ social:
   - display:
       header: false
     link: "https://scholar.google.com/citations?user=9xtIG5wAAAAJ&hl=en "
-    icon_pack: fab
+    icon_pack: ai
     icon: google-scholar
     label: ""
   - display:
