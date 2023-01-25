@@ -2,7 +2,7 @@
 title: Paytsar A. Mantashyan
 role: Head of the Group of Quantum Materials and Nanophotonics at Institute of
   Chemical Physics after A.B. Nalbandyan
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: Paytsar's research interests are Quantum Dots as Nanoscale Device
   Components, Quantum Optics, Quantum Information.
 interests:
