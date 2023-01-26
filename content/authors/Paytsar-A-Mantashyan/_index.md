@@ -52,14 +52,11 @@ Dr. Paytsar Mantashya head of the group of Quantum Materials and Nanophotonics a
 
 **Research projects**
 - 2022-2023 COORDINATOR - Significant Heating of Iron Oxide Nanoparticles via Alternating Magnetic Field, Faculty Research Funding Program 2021 initiated by PMI Science 
-- 2021-2024 PARTICIPANT - Project 21SCG-1C008: Single Photons Sources and Entangled Photons Pairs Sources based on Coupled Colloidal Quantum Dots for Quantum Computing Starting Grant initiated by the Science Committee of Armenia
+
 - 2021-2024 WORK PACKAGE LEADER - NanoQIQO: Twinning towards the Russian-Armenian University’s scientific excellence and innovation capacity in nanomaterials for quantum information and quantum optics, WIDESPREAD-05-2020: TWINNING PROGRAM HORIZON 2020 European Framework Program for Research and Innovation 
 - 2021-2022 PARTICIPANT - Project N 099/18: Colloidal Quantum Dots as Platforms for Quantum Information Science, Faculty Research Funding Program 2021 initiated by PMI Science 
-- 2019-2022 PARTICIPANT - Project 19IT-009: Photophysical investigation of semiconductor quantum dots, Joint Armenian-Italian project initiated by the Science Committee of Armenia 
-- 2019-2020 PARTICIPANT - Project 20AN:PS-nano-2205: Theoretical and experimental investigation of optical properties of biexcitons in quantum dots, ANSEF (the Armenian National Science and Education Fund) 
 - 2016-2017 WORK PACKAGE LEADER - Project A-2130: Control of light in structured nonlinear media: Application to all-optical devices, ISTC (The International Science and Technology Center)
 - 2016-2017 COORDINATOR - Project OPT-4238: Nondestructive optical probing of photonic lattice structures in LiNbO3:Fe crystals due to magneto-photorefractive effect 
-- ANSEF (the Armenian National Science and Education Fund) 
-- 2015-2017 PARTICIPANT - Project 15RF-024: Photoinduced atom-solid surface interactions and their application for microstructured metal films by means of singular light beams, SCS-Arm-Russian Joint grant
--	2013-2014 COORDINATOR, Talbot effect from periodic and quasi-periodic structures: Application to 3D quasi-crystalline photonic lattices formation, Ph.D. Students Research Support Program grant initiated by the State Committee of Sciences of RA
--	2009-2012 PARTICIPANT, Project A-1517: Engineering of permanent 2D and 3D holographic gratings by Bessel and speckle beams in solid and liquid crystals: Application to photonic crystals, ISTC (The International Science and Technology Center)
+
+- 2013-2014 COORDINATOR, Talbot effect from periodic and quasi-periodic structures: Application to 3D quasi-crystalline photonic lattices formation, Ph.D. Students Research Support Program grant initiated by the State Committee of Sciences of RA
+
