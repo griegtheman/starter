@@ -43,6 +43,15 @@ user_groups:
   - Principal Investigators
 ---
 Dr. Paytsar Mantashya head of the group of Quantum Materials and Nanophotonics at Institute of Chemical Physics after A.B. Nalbandyan. She is currently pursuing her search in the specialization of Quantum optics and nanophotonics. Now the group investigates the properties of semiconductor quantum dots with non-trivial geometries and quantum dots as platforms for quantum information, quantum optics, and nanoscale devices.
+**Selected Projects**
+- 2022-2023 COORDINATOR - Significant Heating of Iron Oxide Nanoparticles via Alternating Magnetic Field, Faculty Research Funding Program 2021 initiated by PMI Science
+- 2021-2024 WORK PACKAGE LEADER - NanoQIQO: Twinning towards the Russian-Armenian University’s scientific excellence and innovation capacity in nanomaterials for quantum information and quantum optics, WIDESPREAD-05-2020: TWINNING PROGRAM HORIZON 2020 European Framework Program for Research and Innovation
+- 2016-2017 WORK PACKAGE LEADER - Project A-2130: Control of light in structured nonlinear media: Application to all-optical devices, ISTC (The International Science and Technology Center)
+- 2016-2017 COORDINATOR - Project OPT-4238: Nondestructive optical probing of photonic lattice structures in LiNbO3:Fe crystals due to magneto-photorefractive effect
+- 2013-2014 COORDINATOR, Talbot effect from periodic and quasi-periodic structures: Application to 3D quasi-crystalline photonic lattices formation, Ph.D. Students Research Support Program grant initiated by the State Committee of Sciences of RA
+- 2009-2012 PARTICIPANT, Project A-1517: Engineering of permanent 2D and 3D holographic gratings by Bessel and speckle beams in solid and liquid crystals: Application to photonic crystals, ISTC (The International Science and Technology Center)
+
+
 
 
 
