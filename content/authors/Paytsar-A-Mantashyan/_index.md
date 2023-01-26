@@ -48,7 +48,6 @@ Dr. Paytsar Mantashya head of the group of Quantum Materials and Nanophotonics a
 - 2022-2023 COORDINATOR - Significant Heating of Iron Oxide Nanoparticles via Alternating Magnetic Field, Faculty Research Funding Program 2021 initiated by PMI Science 
 
 - 2021-2024 WORK PACKAGE LEADER - NanoQIQO: Twinning towards the Russian-Armenian University’s scientific excellence and innovation capacity in nanomaterials for quantum information and quantum optics, WIDESPREAD-05-2020: TWINNING PROGRAM HORIZON 2020 European Framework Program for Research and Innovation 
-- 2021-2022 PARTICIPANT - Project N 099/18: Colloidal Quantum Dots as Platforms for Quantum Information Science, Faculty Research Funding Program 2021 initiated by PMI Science 
 - 2016-2017 WORK PACKAGE LEADER - Project A-2130: Control of light in structured nonlinear media: Application to all-optical devices, ISTC (The International Science and Technology Center)
 - 2016-2017 COORDINATOR - Project OPT-4238: Nondestructive optical probing of photonic lattice structures in LiNbO3:Fe crystals due to magneto-photorefractive effect 
 
