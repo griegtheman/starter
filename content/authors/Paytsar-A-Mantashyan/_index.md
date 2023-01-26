@@ -37,12 +37,6 @@ education:
     - course: Joint Exchange Student
       year: 2013
       institution: "  Group of Liquid Crystals and Photonics, Ghent University"
-    - course: MSc degree in Laser Physics
-      institution: Yerevan State University
-      year: 2008
-    - course: BSc degree in Physics
-      institution: Yerevan State University
-      year: 2006
 email: paytsar.mantashyan@gmail.com
 superuser: false
 user_groups:
